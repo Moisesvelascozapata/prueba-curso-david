@@ -1,15 +1,15 @@
-# prueba-curso-david
+# Peut-on avoir maitrise de soi? 
+
 Un repositorio de prueba, puede dejarse en blanco. 
 
-## Esto es nuevo mklas dlkas dlsam daskdmkaldmalskdlaskda
-
-Puedes encontrar información de prueba 
+## Nikolai 
 
 ![image](https://github.com/user-attachments/assets/cc3bdef2-a150-47a8-87f9-cc30581f3686)
 
-## Caminito de Koningsberg ##
 
- [Enlace] (https://es.wikipedia.org/wiki/Immanuel_Kant)
+## Elisa ##
 
- ![image](
+ [Enlace](https://es.wikipedia.org/wiki/Immanuel_Kant)
+
+ ![image](https:
 
