@@ -1,14 +1,14 @@
 # Peut-on avoir maitrise de soi? 
 
-##Sara Slaoui Andaloussi##
+## Sara Slaoui Andaloussi ##
 [Enlace](https://es.wikipedia.org/wiki/Immanuel_Kant)
 
-##Elias Tejuca##
+## Elias Tejuca ##
 
-##Nikolai Chumakov##
+## Nikolai Chumakov ##
 
-##Elisa Cabeza Andría##
+## Elisa Cabeza Andría ##
 
-##Claudia López##
+## Claudia López ##
 
-##Silvia Pérez García##
+## Silvia Pérez García ##
